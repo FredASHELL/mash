@@ -11,4 +11,7 @@ So you can compile by running 'clang mash.c -o mash' or if you aren't in the dir
 Oh yeah, one more thing. If you want to run a file, you do './mash file.mash'. Do this while you're in your mash directory and when you've compiled the Unix Executable File (or the UEF). IT MUST BE .MASH. ANY OTHER EXTENSTION PROBABLY WON'T WORK.
 
 #
+A Unix system is heavily, heavily recommended unless you've got WSL or some weird compatibility layer shit.
+
+#
 Ok, byeeeee! :)
